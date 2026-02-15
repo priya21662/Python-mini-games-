@@ -121,8 +121,6 @@ These projects help practice:
 
 
 
----
-
 ## 👩‍💻 Author
 
 Created while learning Python fundamentals.
